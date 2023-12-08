@@ -1,4 +1,4 @@
-(![image](https://github.com/Anwarkam/Anwarkam/assets/129482927/87d9a9a9-0993-40a1-9ecd-5d36e7d16907))
+![image](https://github.com/Anwarkam/Anwarkam/assets/129482927/87d9a9a9-0993-40a1-9ecd-5d36e7d16907)
 
 <h1 align="center">Hi 👋, I'm Anwar kamal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
